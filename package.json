@@ -1,6 +1,6 @@
 {
   "name": "desafio01-app",
-  "home-page": "https://github.com/lucascruz772/desafio01-app",
+  "homepage": "https://github.com/lucascruz772/desafio01-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
