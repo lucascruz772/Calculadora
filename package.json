@@ -1,6 +1,6 @@
 {
   "name": "desafio01-app",
-  "homepage": "https://lucascruz772.github.io/desafio01-app",
+  "homepage": "https://lucascruz772.github.io/calculadora",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
